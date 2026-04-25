@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4a/fc/9b/4afc9b072b54a7e23b750bccf5d941cc.gif" />
+</p>
+
+
 # 💫 Hi 👋, I'm  Nova apex
 - 🔭 **I’m currently working on:** 
 - 🌱 **I’m currently learning:** Kali linux
